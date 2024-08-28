@@ -3,7 +3,10 @@ ML project for loan approval status predictions
 
 Code Modules:
 
-- DataPreparationPlus.ipynb
+- DataPrep.ipynb
+  Initial notebook used for basic data investigation.
+
+- EDA_and_cleansing.ipynb
   This notebook is dedicated to data analysis and preparation, encompassing tasks such as handling missing values, managing outliers, conducting exploratory data analysis (EDA), and performing feature engineering.
 
 - FeatureEvaluator.ipynb
@@ -15,14 +18,15 @@ Code Modules:
 - Unsupervised.ipynb
   An exploration of predictive modeling using unsupervised techniques such as K-Means and Hierarchical Clustering (HCL).
 
-- FinalModel.ipynb
+- ModelFineTuning.ipynb
   The culmination of the project, synthesizing insights and results from the previous modules to deliver the final model.
 
 
 Data modules:
 - train.csv
 - test.csv
-- loans_clean4.csv
 
 
-
+Documentation:
+- LoanApprovalPredictionML.docx
+  Detailed proiject description
